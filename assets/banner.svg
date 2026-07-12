@@ -1,0 +1,46 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="zyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+    </linearGradient>
+    <linearGradient id="zyGradientSoft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.14"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#D946EF" stop-opacity="0.14"/>
+    </linearGradient>
+    <linearGradient id="fadeEdge" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0D12" stop-opacity="1"/>
+      <stop offset="15%" stop-color="#0D0D12" stop-opacity="0"/>
+      <stop offset="85%" stop-color="#0D0D12" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D0D12" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0D0D12"/>
+
+  <!-- faceted Z watermark: three bold strokes tracing an actual Z path, bleeding off the right edge -->
+  <g transform="translate(830, 30)">
+    <polygon points="0,0 260,0 60,240 0,240" fill="url(#zyGradientSoft)"/>
+    <polygon points="260,0 340,0 340,60 100,300 20,300" fill="url(#zyGradientSoft)" opacity="0.75"/>
+    <polygon points="20,300 340,300 340,240 60,240" fill="url(#zyGradientSoft)" opacity="0.55"/>
+    <polyline points="0,0 260,0 60,240 0,240 0,0" fill="none" stroke="url(#zyGradient)" stroke-width="1.5" stroke-opacity="0.4"/>
+    <polyline points="260,0 340,0 340,60 100,300 20,300" fill="none" stroke="url(#zyGradient)" stroke-width="1.5" stroke-opacity="0.35"/>
+    <polyline points="20,300 340,300 340,240 60,240" fill="none" stroke="url(#zyGradient)" stroke-width="1.5" stroke-opacity="0.3"/>
+  </g>
+
+  <rect width="1200" height="300" fill="url(#fadeEdge)" opacity="0.5"/>
+
+  <!-- baseline rule -->
+  <line x1="80" y1="215" x2="420" y2="215" stroke="url(#zyGradient)" stroke-width="2"/>
+
+  <!-- wordmark: wider tracking so it holds shape under font fallback -->
+  <text x="80" y="160" font-family="'Space Grotesk', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#F5F5F7" letter-spacing="2">ZYNTECH</text>
+
+  <!-- eyebrow -->
+  <text x="82" y="60" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="15" font-weight="500" fill="#A78BFA" letter-spacing="4">ZYNTECH (PVT) LTD</text>
+
+  <!-- tagline -->
+  <text x="80" y="248" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="16" fill="#9A9AA5" letter-spacing="0.5">building education &amp; opportunity infrastructure, from Harare</text>
+</svg>
