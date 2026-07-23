@@ -14,7 +14,7 @@
 
 ### what we're doing
 
-Zyntech is a Harare-based technology company building software for two problems we think are underserved on their own terms: exam preparation for Zimbabwean students, and access to opportunity for young talent. We build for the local context first — infrastructure that assumes intermittent connectivity, mobile-first usage, and Zimbabwean curricula — rather than adapting products built for somewhere else.
+Zyntech is a Harare-based technology company building software for two problems we think are underserved on their own terms: exam preparation for Zimbabwean students, and access to opportunity for young talent. We build for the local context first — infrastructure that assumes intermittent connectivity, mobile-first usage, and Zimbabwean curricula — rather than adapting products built for somewhere else. Alongside our own products, we also build custom software, automations, and websites for schools and companies.
 
 <br/>
 
@@ -52,6 +52,52 @@ A two-sided marketplace connecting young Zimbabwean talent with real opportunity
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Zyntech26/Zyntech26/main/assets/divider.svg" width="100%" />
+</div>
+
+<br/>
+
+### what we build for others
+
+Beyond our own products, we take on custom work for schools and companies — software, automations, and websites built around how the client actually operates, not a generic template.
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**Custom software**
+<br/>
+<sub>internal systems &nbsp;·&nbsp; portals &nbsp;·&nbsp; dashboards</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Automations**
+<br/>
+<sub>workflows &nbsp;·&nbsp; integrations &nbsp;·&nbsp; reporting</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Websites**
+<br/>
+<sub>institutional &nbsp;·&nbsp; commercial</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**clients**
+
+| | |
+|---|---|
+| **Edumax Global College** | Full school management system — students, staff, fees, marks, report cards, and attendance |
 
 <br/>
 
