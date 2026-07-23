@@ -65,37 +65,17 @@ A two-sided marketplace connecting young Zimbabwean talent with real opportunity
 
 Beyond our own products, we take on custom work for schools and companies — software, automations, and websites built around how the client actually operates, not a generic template.
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+![Custom software](https://img.shields.io/badge/CUSTOM_SOFTWARE-0D0D12?style=for-the-badge&labelColor=0D0D12&color=3B82F6)
+![Automations](https://img.shields.io/badge/AUTOMATIONS-0D0D12?style=for-the-badge&labelColor=0D0D12&color=8B5CF6)
+![Websites](https://img.shields.io/badge/WEBSITES-0D0D12?style=for-the-badge&labelColor=0D0D12&color=D946EF)
 
-**Custom software**
-<br/>
-<sub>internal systems &nbsp;·&nbsp; portals &nbsp;·&nbsp; dashboards</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Automations**
-<br/>
-<sub>workflows &nbsp;·&nbsp; integrations &nbsp;·&nbsp; reporting</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Websites**
-<br/>
-<sub>institutional &nbsp;·&nbsp; commercial</sub>
-
-</td>
-</tr>
-</table>
+<sub>internal systems &nbsp;·&nbsp; portals &nbsp;·&nbsp; dashboards &nbsp;·&nbsp; workflows &nbsp;·&nbsp; integrations &nbsp;·&nbsp; reporting &nbsp;·&nbsp; institutional &amp; commercial sites</sub>
 
 <br/>
 
 **clients**
 
-| | |
+| Client | What we built |
 |---|---|
 | **Edumax Global College** | Full school management system — students, staff, fees, marks, report cards, and attendance |
 
